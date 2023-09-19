@@ -1,0 +1,21 @@
+.returno{
+    min-height: 100px;
+    border: 2px solid #ea2dfa;
+    display: block;
+}
+
+
+.lista {
+    display: none;
+  }
+  .lista-produtos{
+    display: flex;
+    margin: 5px;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .ativo {
+    display: block;
+  }
+  
